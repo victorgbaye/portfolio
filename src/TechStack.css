@@ -1,0 +1,26 @@
+.stack{
+    display: flex;
+    justify-content: space-between;
+}
+.techstack{
+    max-width: 1120px;
+    /* outline: 1px solid teal; */
+    margin-left: auto;
+    margin-right: auto;
+}
+.stack__container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.logo h3{
+    font-size: 50px;
+}
+.logo__text{
+    font-size: 20px;
+}
+.headline{
+    text-align: center;
+    padding: 50px 0;
+    font-size: 35px;
+}

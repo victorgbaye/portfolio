@@ -4,9 +4,9 @@
     margin: 0;
     box-sizing: border-box;
 }
-.name{
+.name h2{
     /* outline: 1px solid teal; */
-    width: 51%;
+    width: 400px;
     height: 129px;
     font-size: 60px;
     top: 329px;
@@ -16,9 +16,9 @@
     line-height: 80.32px;
     letter-spacing: -3%;
 }
-.about{
+.about p{
     /* outline: 1px solid teal; */
-    width: 40%;
+    width: 580px;
     height: 111px;
     font-family: 'DM Sans', sans-serif;
     font-size: 30px;
@@ -34,6 +34,7 @@
 .section{
     max-width: 1120px;
     width: 1120px;
+    height: 283.22px;
     /* outline: 1px solid teal; */
     
     margin-left: auto;

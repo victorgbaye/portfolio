@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
 *{
     padding: 0;
     margin: 0;
@@ -24,11 +25,18 @@
 }
 .title{
     font-size: 18px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-style: normal;
     margin-bottom: 25px;
 }
 .project__about{
     margin-bottom: 25px;
     max-width: 356px;
+    font-size: 18px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-style: normal;
     /* outline: 1px solid slateblue; */
 }
 .image{
@@ -44,6 +52,7 @@
     /* bottom: 0; */
     bottom: 0;
     font-size: 18px;
+    font-family: 'Inter', sans-serif;
     border-bottom: .2px solid black;
     
 }

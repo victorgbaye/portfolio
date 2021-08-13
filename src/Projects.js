@@ -6,7 +6,7 @@ const Projects = () => {
         <>
             <main className='projects'>
                 <div className="description">        
-                    <h6 className='title'>01/PROJECT NAME</h6>
+                    <h3 className='title'>01/PROJECT NAME</h3>
                     <p className='project__about'>Lorem ipsum dolor, 
                         sit amet consectetur adipisicing elit.
                         Quaerat, vel.</p>

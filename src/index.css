@@ -13,6 +13,8 @@ body{
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin-top: 100px;
+  /* outline: 1px solid green; */
 }
 .header-main-intro, .header-main-description{
   width: 342px;
@@ -22,8 +24,9 @@ body{
   /* outline: 1px solid red; */
 }
 .header-main-intro{
-  margin-top: 100px;
   margin-bottom: 68px;
+  display: flex;
+  align-items: center;
 }
 .header-main-description{
   margin-bottom: 100px;
@@ -45,6 +48,10 @@ body{
   font-weight: normal;
   font-style: normal;
 }
+.wave{
+  width: 80px;
+
+}
 .arrow-container{
   width:33px;
   display: flex;
@@ -52,4 +59,92 @@ body{
   justify-content: center;
   margin-left: auto;
   margin-right: auto;
+}
+.fixed-github{
+  width: 50px;
+  margin-right: 18px;
+  margin-bottom: 30px;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+
+}
+.tech-stack-container, .contact-container{
+  width: 342px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+}
+.tech-stack-title h2, .contact-title h2{
+  font-family: 'DM Sans', sans-serif;
+  font-size: 50px;
+  letter-spacing: -3%;
+  margin-bottom: 50px;
+  text-align: center;
+}
+.tech-stack-icon-text-container{
+  display: flex;
+  width: 342px;
+  /* justify-content: space-around; */
+  /* gap: 20px; */
+  align-items: center;
+  /* flex-wrap: wrap; */
+  margin-left: auto;
+  margin-right: auto;
+}
+.icon-text{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.icon-text img{
+  width: 80px;
+}
+.icon-text p{
+  margin-top: 10px;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 20px;
+  color: #606060;
+}
+
+
+@media(min-width:900px){
+  body{
+    max-width: 1120px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .header-main{
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 116.18px;
+    margin-top: 255px;
+  }
+    .header-main-intro{
+      width: 360px;
+    }
+    .header-main-description{
+     width: 580px;
+    }
+    .header-main-intro, .header-main-description{
+      margin: 0;
+    }
+    .arrow-container{
+      margin-left: 0;
+      margin-bottom: 113px;
+    }
+    .tech-stack-container{
+      max-width: 1120px;
+      width: 100%;
+    }
+    .tech-stack-icon-text-container{
+      justify-content: space-between;
+      flex-wrap: wrap;
+      max-width: 1120px;
+      width: 100%;
+
+      gap:0;
+    }
 }

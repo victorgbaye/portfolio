@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.e5bc542d.chunk.css",
-    "main.js": "/portfolio/static/js/main.157274fd.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.157274fd.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.aebb81cf.chunk.css",
+    "main.js": "/portfolio/static/js/main.38ec3e8d.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.38ec3e8d.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.246a7635.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.246a7635.js.map",
     "static/js/2.14384f42.chunk.js": "/portfolio/static/js/2.14384f42.chunk.js",
@@ -10,14 +10,20 @@
     "static/js/3.f0c3e2c7.chunk.js": "/portfolio/static/js/3.f0c3e2c7.chunk.js",
     "static/js/3.f0c3e2c7.chunk.js.map": "/portfolio/static/js/3.f0c3e2c7.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.e5bc542d.chunk.css.map": "/portfolio/static/css/main.e5bc542d.chunk.css.map",
+    "static/css/main.aebb81cf.chunk.css.map": "/portfolio/static/css/main.aebb81cf.chunk.css.map",
     "static/js/2.14384f42.chunk.js.LICENSE.txt": "/portfolio/static/js/2.14384f42.chunk.js.LICENSE.txt",
-    "static/media/down-arrow-svgrepo-com.f16dde91.svg": "/portfolio/static/media/down-arrow-svgrepo-com.f16dde91.svg"
+    "static/media/css-3-logo-svgrepo-com.632b6d13.svg": "/portfolio/static/media/css-3-logo-svgrepo-com.632b6d13.svg",
+    "static/media/down-arrow-svgrepo-com.f16dde91.svg": "/portfolio/static/media/down-arrow-svgrepo-com.f16dde91.svg",
+    "static/media/git-icon-logo-svgrepo-com.7bc790e0.svg": "/portfolio/static/media/git-icon-logo-svgrepo-com.7bc790e0.svg",
+    "static/media/github-svgrepo-com (1).6c96ab09.svg": "/portfolio/static/media/github-svgrepo-com (1).6c96ab09.svg",
+    "static/media/html5-svgrepo-com (1).990e992a.svg": "/portfolio/static/media/html5-svgrepo-com (1).990e992a.svg",
+    "static/media/javascript-logo-svgrepo-com (1).c9f0a72e.svg": "/portfolio/static/media/javascript-logo-svgrepo-com (1).c9f0a72e.svg",
+    "static/media/react-logo-svgrepo-com (1).2960564a.svg": "/portfolio/static/media/react-logo-svgrepo-com (1).2960564a.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.246a7635.js",
     "static/js/2.14384f42.chunk.js",
-    "static/css/main.e5bc542d.chunk.css",
-    "static/js/main.157274fd.chunk.js"
+    "static/css/main.aebb81cf.chunk.css",
+    "static/js/main.38ec3e8d.chunk.js"
   ]
 }

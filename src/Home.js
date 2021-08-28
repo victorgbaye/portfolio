@@ -1,5 +1,8 @@
 import React from 'react'
 
+//import pages
+import Contact from './Contact'
+//
 import arrow from './down-arrow-svgrepo-com.svg'
 import react from './react-logo-svgrepo-com (1).svg'
 import javascript from './javascript-logo-svgrepo-com (1).svg';
@@ -58,11 +61,8 @@ function Home() {
                         </div>
                     </div>
                 </div>
-                {/* <div className="contact-container">
-                    <div className="contact-title">
-                        <h2>Contact me</h2>
-                    </div>
-                </div> */}
+                <Contact/>
+                
             </main>
         </>
     )

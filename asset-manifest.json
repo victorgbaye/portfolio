@@ -1,29 +1,32 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.c2bd1391.chunk.css",
-    "main.js": "/portfolio/static/js/main.38ec3e8d.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.38ec3e8d.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.246a7635.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.246a7635.js.map",
-    "static/js/2.14384f42.chunk.js": "/portfolio/static/js/2.14384f42.chunk.js",
-    "static/js/2.14384f42.chunk.js.map": "/portfolio/static/js/2.14384f42.chunk.js.map",
-    "static/js/3.f0c3e2c7.chunk.js": "/portfolio/static/js/3.f0c3e2c7.chunk.js",
-    "static/js/3.f0c3e2c7.chunk.js.map": "/portfolio/static/js/3.f0c3e2c7.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.c8cb0293.chunk.css",
+    "main.js": "/portfolio/static/js/main.f6c66c01.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.f6c66c01.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.01d8d57f.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.01d8d57f.js.map",
+    "static/js/2.f5421ea8.chunk.js": "/portfolio/static/js/2.f5421ea8.chunk.js",
+    "static/js/2.f5421ea8.chunk.js.map": "/portfolio/static/js/2.f5421ea8.chunk.js.map",
+    "static/js/3.9b245b38.chunk.js": "/portfolio/static/js/3.9b245b38.chunk.js",
+    "static/js/3.9b245b38.chunk.js.map": "/portfolio/static/js/3.9b245b38.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.c2bd1391.chunk.css.map": "/portfolio/static/css/main.c2bd1391.chunk.css.map",
-    "static/js/2.14384f42.chunk.js.LICENSE.txt": "/portfolio/static/js/2.14384f42.chunk.js.LICENSE.txt",
+    "static/css/main.c8cb0293.chunk.css.map": "/portfolio/static/css/main.c8cb0293.chunk.css.map",
+    "static/js/2.f5421ea8.chunk.js.LICENSE.txt": "/portfolio/static/js/2.f5421ea8.chunk.js.LICENSE.txt",
     "static/media/css-3-logo-svgrepo-com.632b6d13.svg": "/portfolio/static/media/css-3-logo-svgrepo-com.632b6d13.svg",
     "static/media/down-arrow-svgrepo-com.f16dde91.svg": "/portfolio/static/media/down-arrow-svgrepo-com.f16dde91.svg",
     "static/media/git-icon-logo-svgrepo-com.7bc790e0.svg": "/portfolio/static/media/git-icon-logo-svgrepo-com.7bc790e0.svg",
     "static/media/github-svgrepo-com (1).6c96ab09.svg": "/portfolio/static/media/github-svgrepo-com (1).6c96ab09.svg",
+    "static/media/gmail-icon-logo-svgrepo-com (1).058315f4.svg": "/portfolio/static/media/gmail-icon-logo-svgrepo-com (1).058315f4.svg",
     "static/media/html5-svgrepo-com (1).990e992a.svg": "/portfolio/static/media/html5-svgrepo-com (1).990e992a.svg",
     "static/media/javascript-logo-svgrepo-com (1).c9f0a72e.svg": "/portfolio/static/media/javascript-logo-svgrepo-com (1).c9f0a72e.svg",
-    "static/media/react-logo-svgrepo-com (1).2960564a.svg": "/portfolio/static/media/react-logo-svgrepo-com (1).2960564a.svg"
+    "static/media/linkedin-svgrepo-com (5).7defd339.svg": "/portfolio/static/media/linkedin-svgrepo-com (5).7defd339.svg",
+    "static/media/react-logo-svgrepo-com (1).2960564a.svg": "/portfolio/static/media/react-logo-svgrepo-com (1).2960564a.svg",
+    "static/media/twitter-svgrepo-com (1).5229b35a.svg": "/portfolio/static/media/twitter-svgrepo-com (1).5229b35a.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.246a7635.js",
-    "static/js/2.14384f42.chunk.js",
-    "static/css/main.c2bd1391.chunk.css",
-    "static/js/main.38ec3e8d.chunk.js"
+    "static/js/runtime-main.01d8d57f.js",
+    "static/js/2.f5421ea8.chunk.js",
+    "static/css/main.c8cb0293.chunk.css",
+    "static/js/main.f6c66c01.chunk.js"
   ]
 }
